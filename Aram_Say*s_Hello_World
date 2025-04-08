@@ -1,0 +1,9 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#   HelloWorld.py will print the text "Hello World!" to the display.
+#                                                
+#     Created by Aram Duronslet-Asman, 2025-04-07
+#         Last edit: 2025-04-07
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#
+#
+Print("Hello World!")
